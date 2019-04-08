@@ -1,1 +1,1 @@
-fmt.Println("")
+fmt.Println("12")
