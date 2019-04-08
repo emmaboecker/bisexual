@@ -1,1 +1,1 @@
-package main
+fmt.Println("")
